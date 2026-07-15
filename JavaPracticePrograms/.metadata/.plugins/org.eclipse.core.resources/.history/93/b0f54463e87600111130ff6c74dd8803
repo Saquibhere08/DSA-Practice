@@ -1,0 +1,32 @@
+package Map;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+public class MapExample2 {
+	public static void main(String[] args) {
+/*TreeMap
+*It is used to store objects by default in ascending order
+*It sorts the entry based on the key
+*In order to store entries into the tree map, we need to follow the following rules.
+
+Rules: 
+Step1: Objects should be homogeneous
+Step2:Objects should be comparable type
+Step3: Objects shouldn't be NULL
+
+Note: Key cannot be NULL, but Values can be NULL
+*/	
+		Map <String,String>cap=new HashMap();
+		
+		cap.put("Assam", "Dispur");
+		cap.put("Telengana", "Hyderabad");
+		cap.put("Andra Pradesh", "Amravati");
+		cap.put("Tamil Nadu", "Chennai");
+		cap.put("WestBengal", "Kolkata");
+		
+		System.out.println(cap);
+		
+	}
+}

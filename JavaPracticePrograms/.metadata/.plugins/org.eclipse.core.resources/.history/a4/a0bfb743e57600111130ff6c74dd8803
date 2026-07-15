@@ -1,0 +1,7 @@
+package Map;
+
+public class MapExample1 {
+	public static void main(String[] args) {
+		
+	}
+}
