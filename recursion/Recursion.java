@@ -1,7 +1,5 @@
 
 package recursion;
-
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Recursion {
@@ -12,7 +10,7 @@ public class Recursion {
         int count=1; //counter variable
         int sum=0; //sum variable
         int fac=1;  //factorial
-        int [] a={1,2,3,4,5};
+
         System.out.println("Problem 1");
         printName(n);    //recursion problem 1
         System.out.println("Problem 2"); 
@@ -23,9 +21,6 @@ public class Recursion {
         printSum(n,count,sum);  //recursion problem 4
         System.out.println("Problem 5");
         printFac(n,fac);
-        System.out.println("Problem 6");
-        System.out.println("Original Array: "+Arrays.toString(a));
-        revArray(a,n);
 
 
     }
@@ -68,12 +63,6 @@ public class Recursion {
         fac=fac*n;
         printFac(--n, fac);
     }
-    //Problem 6. Reverse an Array
-    public static void revArray(int [] a,int n){
-        if(){
-            System.out.println(Arrays.toString(a));
-            return;
-        }
         
     }
-}
+
