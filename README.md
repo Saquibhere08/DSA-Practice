@@ -1,14 +1,4 @@
 # 🚀 Striver's A2Z DSA Sheet - Java Solutions
-
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />`{=html}
-`<img src="https://img.shields.io/badge/Platform-Take%20U%20Forward-blue?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />`{=html}
-```{=html}
-</p>
-```
 ## 📖 About
 
 This repository contains my solutions to **Striver's A2Z DSA Sheet**
