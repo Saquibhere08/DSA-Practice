@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class strings {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        // stringOp1();
-        // stringOp2(sc);
-        // stringOp3();
-        // stringOp4();
-        // stringOp5();
+        stringOp1();
+        stringOp2(sc);
+        stringOp3();
+        stringOp4();
+        stringOp5();
         stringOp6();
     }
     public static void stringOp1(){
