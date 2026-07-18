@@ -70,35 +70,6 @@ while writing clean, readable, and optimized code.
 
 ------------------------------------------------------------------------
 
-## 📂 Repository Structure
-
-``` text
-Striver-A2Z-DSA-Java/
-│
-├── Step-01-Learn-the-Basics/
-│   ├── Basic-Java/
-│   ├── Patterns/
-│   ├── Basic-Maths/
-│   ├── Recursion/
-│   └── Hashing/
-├── Step-02-Sorting/
-├── Step-03-Arrays/
-├── Step-04-Binary-Search/
-├── Step-05-Strings/
-├── Step-06-Linked-List/
-├── Step-07-Bit-Manipulation/
-├── Step-08-Stack-and-Queue/
-├── Step-09-Sliding-Window/
-├── Step-10-Heaps/
-├── Step-11-Greedy/
-├── Step-12-Binary-Trees/
-├── Step-13-BST/
-├── Step-14-Graphs/
-├── Step-15-Dynamic-Programming/
-└── Step-16-Tries/
-```
-
-------------------------------------------------------------------------
 
 ## 📈 Progress Tracker
 
