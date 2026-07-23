@@ -1,3 +1,4 @@
+//Problem 6. You are given an array. The task is to reverse the array and print it.
 package recursion;
 import java.util.Arrays;
 public class reverseArray{
