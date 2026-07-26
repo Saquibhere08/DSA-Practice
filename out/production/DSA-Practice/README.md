@@ -1,0 +1,121 @@
+# 🚀 Striver's A2Z DSA Sheet - Java Solutions
+## 📖 About
+
+This repository contains my solutions to **Striver's A2Z DSA Sheet**
+implemented in **Java**.
+
+The goal of this repository is to strengthen my Data Structures and
+Algorithms skills by solving every problem from beginner to advanced
+while writing clean, readable, and optimized code.
+
+------------------------------------------------------------------------
+
+## 🎯 Objectives
+
+-   Learn Data Structures and Algorithms from scratch
+-   Improve problem-solving skills
+-   Prepare for coding interviews
+-   Write clean and optimized Java solutions
+-   Track daily learning progress
+
+------------------------------------------------------------------------
+
+## 🛣️ Learning Roadmap
+
+### ✅ Step 1: Learn the Basics
+
+-   Basic Java
+-   Patterns
+-   Basic Maths
+-   Recursion
+-   Hashing
+
+### ⏳ Step 2: Sorting Techniques
+
+-   Bubble Sort
+-   Selection Sort
+-   Insertion Sort
+-   Merge Sort
+-   Quick Sort
+
+### ⏳ Step 3: Arrays (Easy, Medium, Hard)
+
+### ⏳ Step 4: Binary Search
+
+### ⏳ Step 5: Strings
+
+### ⏳ Step 6: Linked List
+
+### ⏳ Step 7: Recursion
+
+### ⏳ Step 8: Bit Manipulation
+
+### ⏳ Step 9: Stack & Queue
+
+### ⏳ Step 10: Sliding Window & Two Pointers
+
+### ⏳ Step 11: Heaps
+
+### ⏳ Step 12: Greedy Algorithms
+
+### ⏳ Step 13: Binary Trees
+
+### ⏳ Step 14: Binary Search Trees
+
+### ⏳ Step 15: Graphs
+
+### ⏳ Step 16: Dynamic Programming
+
+### ⏳ Step 17: Tries
+
+------------------------------------------------------------------------
+
+
+## 📈 Progress Tracker
+
+  Topic                 Status
+  --------------------- ----------------
+  Learn the Basics      🟡 In Progress
+  Sorting               ⬜ Not Started
+  Arrays                ⬜ Not Started
+  Binary Search         ⬜ Not Started
+  Strings               ⬜ Not Started
+  Linked List           ⬜ Not Started
+  Bit Manipulation      ⬜ Not Started
+  Stack & Queue         ⬜ Not Started
+  Sliding Window        ⬜ Not Started
+  Heaps                 ⬜ Not Started
+  Greedy                ⬜ Not Started
+  Binary Trees          ⬜ Not Started
+  BST                   ⬜ Not Started
+  Graphs                ⬜ Not Started
+  Dynamic Programming   ⬜ Not Started
+  Tries                 ⬜ Not Started
+
+------------------------------------------------------------------------
+
+## 💻 Language
+
+-   Java
+
+## 🛠️ Tools Used
+
+-   Java JDK
+-   VS Code
+-   Git
+-   GitHub
+
+## 📚 Reference
+
+https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+
+## ⭐ Connect With Me
+
+**GitHub:** https://github.com/Saquibhere08
+
+------------------------------------------------------------------------
+
+## 📌 Note
+
+This repository documents my progress through Striver's A2Z DSA Sheet.
+Solutions will be added and improved regularly as I continue learning.

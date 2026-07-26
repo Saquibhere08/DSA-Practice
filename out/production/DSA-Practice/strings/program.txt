@@ -1,0 +1,53 @@
+import java.util.*;
+
+public class Program {
+
+    static class Pair {
+        String word;
+        int count;
+
+        Pair(String word, int count) {
+            this.word = word;
+            this.count = count;
+        }
+
+        @Override
+        public String toString() {
+            return "(" + word + "," + count + ")";
+        }
+    }
+
+    public static List<Pair> groupWords(String input) {
+
+        String[] words = input.split(",");
+        List<Pair> result = new ArrayList<>();
+
+        String current = words[0];
+        int count = 1;
+
+        for (int i = 1; i < words.length; i++) {
+
+            if (words[i].equals(current)) {
+                count++;
+            } else {
+                result.add(new Pair(current, count));
+                current = words[i];
+                count = 1;
+            }
+        }
+
+        // Add the last group
+        result.add(new Pair(current, count));
+
+        return result;
+    }
+
+    public static void main(String[] args) {
+
+        String input1 = "apple,apple,banana,banana,apple,apple";
+        String input2 = "cat,cat,dog,dog,fish,fish,fish,fish";
+
+        System.out.println(groupWords(input1));
+        System.out.println(groupWords(input2));
+    }
+}
