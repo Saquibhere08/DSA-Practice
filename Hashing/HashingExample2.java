@@ -6,7 +6,6 @@ public class HashingExample2 {
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<>();
 
-
         hashOperations1(map);
         hashOperations2(map);
         hashOperations3(map);
