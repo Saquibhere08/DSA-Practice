@@ -1,4 +1,4 @@
-package collections.List.arrayList;
+package CoreJava.collections.List.arrayList;
 import java.util.ArrayList;
 
 public class ArrayListExample1 {

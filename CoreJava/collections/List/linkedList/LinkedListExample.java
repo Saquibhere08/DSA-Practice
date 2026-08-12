@@ -1,4 +1,4 @@
-package collections.List.linkedList;
+package CoreJava.collections.List.linkedList;
 
 public class LinkedListExample {
     public static void main(String[] args) {
