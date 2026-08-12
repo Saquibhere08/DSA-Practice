@@ -22,6 +22,5 @@ public class VectorExample {
         vector.clear();
         System.out.println(vector);
 
-
     }
 }
