@@ -1,121 +1,138 @@
-# 🚀 Striver's A2Z DSA Sheet - Java Solutions
-## 📖 About
+# 🚀 DSA Practice in Java
 
-This repository contains my solutions to **Striver's A2Z DSA Sheet**
-implemented in **Java**.
+<div align="center">
 
-The goal of this repository is to strengthen my Data Structures and
-Algorithms skills by solving every problem from beginner to advanced
-while writing clean, readable, and optimized code.
+![Java](https://img.shields.io/badge/Java-21-orange)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Interview%20Preparation-blue)
+![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 
-------------------------------------------------------------------------
+**A structured collection of Data Structures and Algorithms solutions implemented in Java.**
 
-## 🎯 Objectives
+**Following Striver's A2Z DSA Course and Kunal Kushwaha's DSA Bootcamp while documenting my learning journey and interview preparation.**
 
--   Learn Data Structures and Algorithms from scratch
--   Improve problem-solving skills
--   Prepare for coding interviews
--   Write clean and optimized Java solutions
--   Track daily learning progress
+</div>
 
-------------------------------------------------------------------------
+---
 
-## 🛣️ Learning Roadmap
+## 📌 About This Repository
 
-### ✅ Step 1: Learn the Basics
+This repository contains my solutions, notes, and implementations of Data Structures and Algorithms problems using **Java**.
 
--   Basic Java
--   Patterns
--   Basic Maths
--   Recursion
--   Hashing
+The primary goal of this repository is to:
 
-### ⏳ Step 2: Sorting Techniques
+* Strengthen problem-solving skills
+* Improve coding logic
+* Build consistency through daily practice
+* Prepare for technical interviews
+* Track my progress publicly
 
--   Bubble Sort
--   Selection Sort
--   Insertion Sort
--   Merge Sort
--   Quick Sort
+I'm currently solving problems from **Striver's A2Z DSA Sheet** and **Kunal Kushwaha's DSA Bootcamp**, following a topic-by-topic approach. The learning structure is inspired by both resources. ([GitHub][1])
 
-### ⏳ Step 3: Arrays (Easy, Medium, Hard)
+---
 
-### ⏳ Step 4: Binary Search
+## 📚 Learning Resources
 
-### ⏳ Step 5: Strings
+### Striver's A2Z DSA Course
 
-### ⏳ Step 6: Linked List
+* Topic-wise interview preparation
+* Curated coding problems
+* Structured roadmap from beginner to advanced
+* Revision-focused approach
 
-### ⏳ Step 7: Recursion
+### Kunal Kushwaha's DSA Bootcamp
 
-### ⏳ Step 8: Bit Manipulation
+* Java-based DSA implementations
+* Assignments and coding exercises
+* Interview-oriented explanations
+* Strong focus on problem-solving using Java
 
-### ⏳ Step 9: Stack & Queue
+---
+## 🎯 My Daily Practice Routine
 
-### ⏳ Step 10: Sliding Window & Two Pointers
+Every day, I try to complete:
 
-### ⏳ Step 11: Heaps
+* 5 Java programs
+* 1 SQL query
+* 1 DSA problem
+* 1 interview revision topic
+* 1 GitHub commit
 
-### ⏳ Step 12: Greedy Algorithms
+---
 
-### ⏳ Step 13: Binary Trees
+## 🛠️ Tech Stack
 
-### ⏳ Step 14: Binary Search Trees
+* Java 21
+* VS Code
+* Eclipse
+* Git
+* GitHub
 
-### ⏳ Step 15: Graphs
+---
 
-### ⏳ Step 16: Dynamic Programming
+## ▶️ How to Run
 
-### ⏳ Step 17: Tries
+### Clone the repository
 
-------------------------------------------------------------------------
+```bash
+git clone https://github.com/Saquibhere08/DSA-Practice.git
+```
 
+### Move into the project directory
+
+```bash
+cd DSA-Practice
+```
+
+### Compile a Java file
+
+```bash
+javac FileName.java
+```
+
+### Run the program
+
+```bash
+java FileName
+```
+
+---
+
+## 🎯 Goals
+
+* Solve 150+ Java problems
+* Complete Striver's A2Z Sheet
+* Complete Kunal Kushwaha's DSA Bootcamp
+* Improve coding logic
+* Become interview-ready
+* Secure a Java Full Stack Developer role
+
+---
 
 ## 📈 Progress Tracker
 
-  Topic                 Status
-  --------------------- ----------------
-  Learn the Basics      🟡 In Progress
-  Sorting               ⬜ Not Started
-  Arrays                ⬜ Not Started
-  Binary Search         ⬜ Not Started
-  Strings               ⬜ Not Started
-  Linked List           ⬜ Not Started
-  Bit Manipulation      ⬜ Not Started
-  Stack & Queue         ⬜ Not Started
-  Sliding Window        ⬜ Not Started
-  Heaps                 ⬜ Not Started
-  Greedy                ⬜ Not Started
-  Binary Trees          ⬜ Not Started
-  BST                   ⬜ Not Started
-  Graphs                ⬜ Not Started
-  Dynamic Programming   ⬜ Not Started
-  Tries                 ⬜ Not Started
+| Topic               | Progress |
+| ------------------- | -------- |
+| Arrays              | ⏳        |
+| Strings             | ⏳        |
+| Searching           | ⏳        |
+| Sorting             | ⏳        |
+| Recursion           | ⏳        |
+| Hashing             | ⏳        |
+| Linked List         | ⏳        |
+| Stack               | ⏳        |
+| Queue               | ⏳        |
+| Trees               | ⏳        |
+| Graphs              | ⏳        |
+| Dynamic Programming | ⏳        |
 
-------------------------------------------------------------------------
-
-## 💻 Language
-
--   Java
-
-## 🛠️ Tools Used
-
--   Java JDK
--   VS Code
--   Git
--   GitHub
-
-## 📚 Reference
-
-https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+---
 
 ## ⭐ Connect With Me
 
-**GitHub:** https://github.com/Saquibhere08
+**GitHub:** @Saquibhere08
 
-------------------------------------------------------------------------
+If you find this repository helpful, consider giving it a ⭐.
 
-## 📌 Note
+**Happy Coding! 🚀**
 
-This repository documents my progress through Striver's A2Z DSA Sheet.
-Solutions will be added and improved regularly as I continue learning.
+[1]: https://github.com/utkarsh-1602/strivers-a2z-dsa-sheet?utm_source=chatgpt.com "GitHub - utkarsh-1602/strivers-a2z-dsa-sheet: This repository contains DSA Questions and its Approaches from the SDE Striver sheet. You can use this repository to practice DSA questions and define their approaches to do multiple revisions in future. · GitHub"
