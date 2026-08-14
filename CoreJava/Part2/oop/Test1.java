@@ -1,4 +1,4 @@
-package oop;
+package CoreJava.Part2.oop;
 // Test case for encapsulationExample1
 public class Test1 {
     public static void main(String[] args) {

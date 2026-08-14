@@ -1,4 +1,4 @@
-package oop;
+package CoreJava.Part2.oop;
 
 public abstract class AbstractionExample {  //abstract class
     public abstract void sayHello();    //abstract method

@@ -1,4 +1,4 @@
-package oop;
+package CoreJava.Part2.oop;
 //run-time polymorphism example
 public class PolymorphismExample2 extends AbstractionExample {
     //method overriding

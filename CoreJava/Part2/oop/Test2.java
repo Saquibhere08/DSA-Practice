@@ -1,4 +1,4 @@
-package oop;
+package CoreJava.Part2.oop;
 //Test 1 case for AbstractionExample
 public class Test2 extends AbstractionExample {
 

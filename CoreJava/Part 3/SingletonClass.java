@@ -1,4 +1,4 @@
-package CoreJava.Part2;
+
 
 public class SingletonClass {
     private static SingletonClass s;
