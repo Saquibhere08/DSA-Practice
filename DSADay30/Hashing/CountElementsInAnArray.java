@@ -1,4 +1,4 @@
-package Hashing;
+package DSADay30.Hashing;
 /*
 Count frequency of each element in the array
 Problem Statement: Given an array, we have found the number 

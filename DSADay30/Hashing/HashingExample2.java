@@ -1,4 +1,4 @@
-package Hashing;
+package DSADay30.Hashing;
 
 import java.util.HashMap;
 

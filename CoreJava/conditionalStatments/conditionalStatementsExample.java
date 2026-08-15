@@ -1,4 +1,4 @@
-package basics.conditionalStatments;
+package CoreJava.conditionalStatments;
 import java.util.Scanner;
 public class conditionalStatementsExample {
     

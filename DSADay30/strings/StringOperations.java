@@ -1,4 +1,4 @@
-package strings;
+package DSADay30.strings;
 
 public class StringOperations{
      public static void main(String[] args) {

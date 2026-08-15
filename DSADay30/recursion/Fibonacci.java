@@ -1,4 +1,4 @@
-package recursion;
+package DSADay30.recursion;
 import java.util.Scanner;
 
 // Problem 8. Given an integer N. Print the Fibonacci series up to the Nth term.

@@ -1,5 +1,5 @@
 
-package recursion;
+package DSADay30.recursion;
 import java.util.Scanner;
 
 public class Recursion {

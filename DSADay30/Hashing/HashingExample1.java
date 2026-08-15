@@ -5,7 +5,7 @@ a value (called a key) into an index using a hash function
 In simpler terms: Hashing is a way of finding data quickly by converting it into a unique location (index)
  */
 
-package Hashing;
+package DSADay30.Hashing;
 
 import java.util.HashMap;
 

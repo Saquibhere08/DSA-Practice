@@ -1,4 +1,4 @@
-package numberPrograms;
+package DSADay30.NumberPrograms;
 
 import java.util.Scanner;
 

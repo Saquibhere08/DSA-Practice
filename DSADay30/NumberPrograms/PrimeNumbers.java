@@ -1,4 +1,4 @@
-package numberPrograms;
+package DSADay30.NumberPrograms;
 //1. prime numbers in a range
 import java.util.Scanner;
 public class PrimeNumbers {

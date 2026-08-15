@@ -1,4 +1,4 @@
-package strings;
+package DSADay30.strings;
 
 public class LongestSubString {
     public static void main(String[] args) {

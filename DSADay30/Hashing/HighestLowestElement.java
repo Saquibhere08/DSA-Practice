@@ -1,4 +1,4 @@
-package Hashing;
+package DSADay30.Hashing;
 
 public class HighestLowestElement {
     public static void main(String[] args) {

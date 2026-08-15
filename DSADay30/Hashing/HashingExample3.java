@@ -1,4 +1,4 @@
-package Hashing;
+package DSADay30.Hashing;
 public class HashingExample3 {
     public static void main(String[] args) {
         //Hashcode

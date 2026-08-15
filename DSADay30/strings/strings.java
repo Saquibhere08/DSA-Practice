@@ -1,4 +1,4 @@
-package strings;
+package DSADay30.strings;
 
 import java.util.Scanner;
 
