@@ -1,4 +1,4 @@
-package Methods;
+package CoreJava.Part1.Methods;
 
 public class MthodsEx {
     

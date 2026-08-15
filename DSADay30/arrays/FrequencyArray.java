@@ -1,4 +1,4 @@
-package arrays;
+package DSADay30.arrays;
 
 public class FrequencyArray {
     public static void main(String[] args) {

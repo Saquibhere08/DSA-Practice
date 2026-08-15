@@ -1,4 +1,4 @@
-package arrays;
+package DSADay30.arrays;
 
 public class ArrayProblem1 {
     public static void main(String[] args) {

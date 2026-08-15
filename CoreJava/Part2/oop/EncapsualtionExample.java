@@ -1,4 +1,4 @@
-package oop;
+package CoreJava.Part2.oop;
 
 public class EncapsualtionExample {    
     String name="Saquib";

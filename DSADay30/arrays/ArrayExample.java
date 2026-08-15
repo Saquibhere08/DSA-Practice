@@ -1,4 +1,4 @@
-package arrays;
+package DSADay30.arrays;
 
 import java.util.Scanner;
 

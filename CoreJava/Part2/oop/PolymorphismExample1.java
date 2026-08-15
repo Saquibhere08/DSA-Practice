@@ -1,4 +1,4 @@
-package oop;
+package CoreJava.Part2.oop;
 //compile-time polytmorphism example - because the methods are overloaded at compile time only
 public class PolymorphismExample1 {
     
