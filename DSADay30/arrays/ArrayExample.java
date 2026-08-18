@@ -1,5 +1,8 @@
 package DSADay30.arrays;
 
+
+
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayExample {
@@ -15,7 +18,7 @@ public class ArrayExample {
         // };
 
         //Method 2:
-        int [][] arr=new int[3][2];
+        int [][] arr=new int[3][3];
         System.out.println(arr.length); //no. of rows
 
         //input:
@@ -23,6 +26,23 @@ public class ArrayExample {
             for(int col=0;col<arr[row].length;col++) {
                 arr[row][col]=sc.nextInt();
             }
+            
         }
+        //output
+        //  for(int row=0;row<arr.length;row++){
+        //     for(int col=0;col<arr[row].length;col++) {
+        //         System.out.print(arr[row][col]+" ");
+        //     }
+        //     System.out.println();
+        // }
+
+        //output: using enhanced for loop
+        for(int []ar:arr){
+            System.out.println(Arrays.toString(ar));
+
+            
+        }
+        
+        
     }
 }
