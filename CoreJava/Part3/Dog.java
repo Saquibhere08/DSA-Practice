@@ -1,6 +1,6 @@
 package CoreJava.Part3;
-
-public class Dog extends Animal {
+//inheritance & method overriding
+public class Dog extends Animal {//inheritance
     
     //method overriding
     @Override
