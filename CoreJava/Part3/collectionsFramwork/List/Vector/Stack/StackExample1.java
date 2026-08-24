@@ -1,4 +1,4 @@
-package CoreJava.collections.List.Vector.Stack;
+package CoreJava.Part3.collectionsFramwork.List.Vector.Stack;
 
 import java.util.LinkedList;
 

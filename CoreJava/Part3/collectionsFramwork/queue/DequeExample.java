@@ -1,4 +1,4 @@
-package CoreJava.Part3.collections.queue;
+package CoreJava.Part3.collectionsFramwork.queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
